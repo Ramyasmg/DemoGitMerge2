@@ -13,6 +13,7 @@
 		3901BAF627E1F03D0073ED2E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3901BAF427E1F03D0073ED2E /* Main.storyboard */; };
 		3901BAF827E1F03E0073ED2E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3901BAF727E1F03E0073ED2E /* Assets.xcassets */; };
 		3901BAFB27E1F03E0073ED2E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3901BAF927E1F03E0073ED2E /* LaunchScreen.storyboard */; };
+		3901BB0527E1FA8C0073ED2E /* sub1.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3901BB0427E1FA8C0073ED2E /* sub1.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		3901BAF727E1F03E0073ED2E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3901BAFA27E1F03E0073ED2E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3901BAFC27E1F03E0073ED2E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3901BB0427E1FA8C0073ED2E /* sub1.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = sub1.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				3901BAF727E1F03E0073ED2E /* Assets.xcassets */,
 				3901BAF927E1F03E0073ED2E /* LaunchScreen.storyboard */,
 				3901BAFC27E1F03E0073ED2E /* Info.plist */,
+				3901BB0427E1FA8C0073ED2E /* sub1.storyboard */,
 			);
 			path = DemoGitMerge;
 			sourceTree = "<group>";
@@ -125,6 +128,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3901BAFB27E1F03E0073ED2E /* LaunchScreen.storyboard in Resources */,
+				3901BB0527E1FA8C0073ED2E /* sub1.storyboard in Resources */,
 				3901BAF827E1F03E0073ED2E /* Assets.xcassets in Resources */,
 				3901BAF627E1F03D0073ED2E /* Main.storyboard in Resources */,
 			);
